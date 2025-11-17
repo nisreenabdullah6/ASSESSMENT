@@ -1,8 +1,10 @@
-a. Solution description:
+## a. Solution description:
+
 use Large Language Model (LLM) with a
 custom dataset, enabling users to ask questions and receive answers sourced
 directly from the dataset.
-b. Data description
+## b. Data description:
+
 The metadata provided appears to be related to healthcare encounters or hospital records. It includes various fields that contain information about the encounter, patient, doctor, hospital, insurance provider, medical condition, admission details, billing, medication, test results, and length of stay. Here's a breakdown of each field:
 
 encounter_id: A unique identifier for the healthcare encounter or hospital record.
@@ -27,7 +29,8 @@ These metadata fields provide important information about a healthcare encounter
 
 from https://www.kaggle.com/datasets/mohammedalsubaie/medical-claims
 
-c. How to install required libraries and run this project.
+## c. How to install required libraries and run this project:
+
 pip install pandas
 pip install numpy
 pip install openai
