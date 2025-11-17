@@ -31,8 +31,8 @@ from https://www.kaggle.com/datasets/mohammedalsubaie/medical-claims
 
 ## c. How to install required libraries and run this project:
 
-pip install pandas
-pip install numpy
-pip install openai
-pip install faiss
-pip install SentenceTransformer
+- pip install pandas
+- pip install numpy
+- pip install openai
+- pip install faiss
+- pip install SentenceTransformer
